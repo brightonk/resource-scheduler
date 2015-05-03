@@ -6,6 +6,8 @@ import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.logging.Logger;
 
 /**
+ * Default implementation of the message. For use in test cases or can be
+ * extended to provide more functionality
  *
  * @author Brighton
  */

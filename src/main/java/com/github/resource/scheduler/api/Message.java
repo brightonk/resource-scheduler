@@ -3,8 +3,7 @@ package com.github.resource.scheduler.api;
 import com.github.resource.scheduler.Group;
 
 /**
- * An interface provided by the supplier of the external resource. It describes
- * how to interact with the external resource.
+ * An interface describing the message that will be queued and processed by the external resource.
  *
  * @author brighton
  */

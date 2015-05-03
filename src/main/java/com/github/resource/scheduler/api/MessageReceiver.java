@@ -10,8 +10,8 @@ public interface MessageReceiver {
     /**
      * A method used to accept outgoing messages.
      *
-     * @param message
-     * @throws java.lang.Exception 
+     * @param message that will be queued
+     * @throws java.lang.Exception when error occurs while sending the message
      */
     public void receive(Message message) throws Exception;
 }

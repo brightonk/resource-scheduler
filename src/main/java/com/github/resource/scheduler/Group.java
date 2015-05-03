@@ -6,7 +6,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.logging.Logger;
 
 /**
- *
+ * A class representing a group of messages.
  * @author Brighton
  */
 public class Group {
